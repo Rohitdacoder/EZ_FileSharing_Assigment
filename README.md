@@ -71,8 +71,8 @@ pip install -r requirements.txt
 
 ### 4. Create `.env` File
 ```env
-SENDGRID_API_KEY=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
-EMAIL_USER=rohitsharma3860@gmail.com
+SENDGRID_API_KEY=your_sendgrid_api_key
+EMAIL_USER=your_verified_sender_email@example.com
 ```
 
 ### 5. Initialize the Database
