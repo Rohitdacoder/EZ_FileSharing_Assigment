@@ -52,7 +52,7 @@ secure-file-sharing-api/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/secure-file-sharing-api.git
+git clone https://github.com/Rohitdacoder/secure-file-sharing-api.git
 cd secure-file-sharing-api
 ```
 
@@ -71,9 +71,8 @@ pip install -r requirements.txt
 
 ### 4. Create `.env` File
 ```env
-SECRET_KEY=your_secret_key
-SENDGRID_API_KEY=your_sendgrid_api_key
-EMAIL_USER=your_verified_sender_email@example.com
+SENDGRID_API_KEY=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
+EMAIL_USER=rohitsharma3860@gmail.com
 ```
 
 ### 5. Initialize the Database
@@ -118,11 +117,6 @@ pytest tests/
 
 ---
 
-## 📬 Postman Collection
-
-👉 [Include your exported Postman JSON here if available]
-
----
 
 ## 📦 Deployment Tips
 
@@ -140,4 +134,4 @@ PRs and improvements are welcome! Let's make secure sharing easier.
 
 ## 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 Rohit Sharma
